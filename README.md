@@ -28,4 +28,4 @@ Visualized key KPIs such as gender balance, hiring/promotion rates, and executiv
 <img src=https://github.com/KrystinCWL/PwC-Power-BI-Dashboard/blob/main/Demo%20Video/PwC%20Dashboard%20Demo%20Video5_HR%20KPI%20P2.gif alt="Dashboard Demo 5">
 
 ## Project Completed Certification
-<img src=[PwC Cert](https://github.com/KrystinCWL/PwC-Power-BI-Dashboard/blob/main/Certificate/PwC%20Data%20Visualization%20Project%20Certificate.jpg) alt="PwC Cert">
+<img src=https://github.com/KrystinCWL/PwC-Power-BI-Dashboard/blob/main/Certificate/PwC%20Data%20Visualization%20Project%20Certificate.jpg alt="PwC Cert">
